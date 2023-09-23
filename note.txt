@@ -1,0 +1,10 @@
+//must installed this packages
+1)next-auth
+
+2)bcrypt
+
+3)mongoose
+
+4)react-hot-toast
+
+5)
